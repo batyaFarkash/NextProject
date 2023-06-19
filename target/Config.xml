@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Config>
+    <test>
+        <browser-type>chrome</browser-type>
+        <url>https://www.next.co.il/en</url>
+        <email-address>farbat3@gamil.com</email-address>
+        <password>batya2415</password>
+
+        <num-card>1234123412341234</num-card>
+        <month>05</month>
+        <year>2025</year>
+        <security-num>565</security-num>
+    </test>
+</Config>
